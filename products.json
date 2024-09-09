@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "Imodium A-D Anti-Diarrheal Caplets",
+        "description": "Controls symptoms of diarrhea, including Traveler's Diarrhea, by slowing down gut movement.",
+        "price": 7.49,
+        "category": "Medicine",
+        "brand": "Imodium",
+        "ingredients": ["Loperamide Hydrochloride 2 mg"],
+        "warnings": "Do not use if you have bloody or black stool. Consult a doctor if symptoms last more than 2 days.",
+        "stock": 85
+    },
+    {
+        "id": 2,
+        "name": "Tylenol Extra Strength Caplets",
+        "description": "Provides temporary relief of minor aches and pains due to headache, muscle pain, and more.",
+        "price": 13.99,
+        "category": "Medicine",
+        "brand": "Tylenol",
+        "ingredients": ["Acetaminophen 500 mg"],
+        "warnings": "Do not exceed 3,000 mg in 24 hours. Avoid with other acetaminophen products. Liver warning: Severe liver damage may occur.",
+        "stock": 200
+    },
+    {
+        "id": 3,
+        "name": "Neutrogena Ultra Sheer Dry-Touch Sunscreen SPF 55",
+        "description": "Lightweight sunscreen that provides broad-spectrum protection against UVA and UVB rays.",
+        "price": 10.99,
+        "category": "Skincare",
+        "brand": "Neutrogena",
+        "ingredients": ["Avobenzone 3%", "Homosalate 10%", "Octisalate 5%", "Octocrylene 2.8%", "Oxybenzone 6%"],
+        "warnings": "For external use only. Do not use on damaged or broken skin. Keep out of eyes.",
+        "stock": 120
+    },
+    {
+        "id": 4,
+        "name": "Advil Liqui-Gels",
+        "description": "Provides fast-acting relief of pain and reduces fever due to conditions such as headaches, backaches, and minor arthritis.",
+        "price": 9.49,
+        "category": "Medicine",
+        "brand": "Advil",
+        "ingredients": ["Ibuprofen 200 mg (NSAID)"],
+        "warnings": "Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding. Do not use with other NSAIDs.",
+        "stock": 150
+    },
+    {
+        "id": 5,
+        "name": "Zyrtec Allergy Relief Tablets",
+        "description": "Relieves allergy symptoms such as runny nose, sneezing, itchy/watery eyes, and itching of the throat or nose.",
+        "price": 18.99,
+        "category": "Medicine",
+        "brand": "Zyrtec",
+        "ingredients": ["Cetirizine Hydrochloride 10 mg"],
+        "warnings": "Do not use if you have ever had an allergic reaction to this product or any of its ingredients.",
+        "stock": 90
+    }
+]
